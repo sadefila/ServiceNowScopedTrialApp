@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="24f13546d91432107f44d6ee6c4a2ef0" label="MyTable" max_length="40" name="x_snc_olatrialapp_mytable" type="collection">
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Field2" max_length="200" name="field2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Field1" max_length="100" name="field1" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

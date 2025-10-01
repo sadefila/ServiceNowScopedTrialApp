@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>To test integration</description>
+        <device_type>browser</device_type>
+        <hint>To test integration</hint>
+        <name/>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-01 16:42:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>12023146d91432107f44d6ee6c4a2ef8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OlaTrialAPP</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="OlaTrialAPP" source="x_snc_olatrialapp">2350fd82d91432107f44d6ee6c4a2e5a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OlaTrialAPP">2350fd82d91432107f44d6ee6c4a2e5a</sys_scope>
+        <sys_update_name>sys_app_application_12023146d91432107f44d6ee6c4a2ef8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-01 16:42:55</sys_updated_on>
+        <title>OlaTrialAPP</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
