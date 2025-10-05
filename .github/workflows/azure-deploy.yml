@@ -18,6 +18,11 @@ jobs:
       with:
         creds: ${{ secrets.AZURE_CREDENTIALS }}
 
+    - name: Install Terraform
+      uses: hashicorp/setup-terraform@v2
+      with:
+        terraform_version: 1.5.7  # Or your preferred version
+
     - name: Deploy with Terraform
       run: |
         cd terraform
